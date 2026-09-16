@@ -1,0 +1,23 @@
+{
+  "repo": "ventoy-full",
+  "product": "Ventoy Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "usb-tools",
+  "topics": [
+    "ventoy-usb",
+    "multi-iso-stick",
+    "secure-boot-usb",
+    "ventoy-windows",
+    "install-media-2026",
+    "how-to-install-ventoy",
+    "ventoy-desktop-package",
+    "plugin-alias-suite",
+    "usb-theme-desk",
+    "ventoy-premium"
+  ],
+  "site": "toolix.me"
+}
